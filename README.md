@@ -1,0 +1,1 @@
+This project compares Netflix and Hulu content, focusing on differences in content types (movies vs. TV shows) and release year trends. Using Excel, the analysis includes data cleaning, exploratory analysis, and visualizations to highlight key insights.
