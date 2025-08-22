@@ -15,6 +15,8 @@ This project compares streaming service content on Netflix and Hulu to uncover d
 
 ## Tools & Technologies
 - Microsoft Excel for data cleaning, aggregation, pivot tables, and visualizations
+  
+- R for Visualizations
 
 
 ## Insights
