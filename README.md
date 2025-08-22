@@ -1,4 +1,4 @@
-# NETFLIX vs HULU
+# NETFLIX vs HULU: ANALYZING STREAMING SERVICE CONTENT
 <p>
 This project compares streaming service content on Netflix and Hulu to uncover differences in content type and release year trends. The goal is to provide insights into how each platform structures its catalog to appeal to different audiences. The analysis includes descriptive statistics, pivot tables, and visualizations using Excel.
 <p>
